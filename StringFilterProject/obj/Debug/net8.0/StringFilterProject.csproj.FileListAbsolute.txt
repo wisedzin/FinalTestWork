@@ -1,0 +1,14 @@
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\bin\Debug\net8.0\StringFilterProject.exe
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\bin\Debug\net8.0\StringFilterProject.deps.json
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\bin\Debug\net8.0\StringFilterProject.runtimeconfig.json
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\bin\Debug\net8.0\StringFilterProject.dll
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\bin\Debug\net8.0\StringFilterProject.pdb
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\obj\Debug\net8.0\StringFilterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\obj\Debug\net8.0\StringFilterProject.AssemblyInfoInputs.cache
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\obj\Debug\net8.0\StringFilterProject.AssemblyInfo.cs
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\obj\Debug\net8.0\StringFilterProject.csproj.CoreCompileInputs.cache
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\obj\Debug\net8.0\StringFilterProject.dll
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\obj\Debug\net8.0\refint\StringFilterProject.dll
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\obj\Debug\net8.0\StringFilterProject.pdb
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\obj\Debug\net8.0\StringFilterProject.genruntimeconfig.cache
+C:\Users\79697\Desktop\GB_test_work\TestWorkNew\StringFilterProject\obj\Debug\net8.0\ref\StringFilterProject.dll
