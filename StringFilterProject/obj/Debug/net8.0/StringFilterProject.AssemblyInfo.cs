@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringFilterProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d92afbcff8a97b2b16dbd6db2b09171605e6c681")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c890289fd0a94719b0e80bf688ead8efc19d9c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringFilterProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringFilterProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
